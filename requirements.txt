@@ -1,0 +1,4 @@
+defusedxml==0.4.1
+Django==1.8.4
+djangorestframework==3.2.4
+djangorestframework-xml==1.2.0
